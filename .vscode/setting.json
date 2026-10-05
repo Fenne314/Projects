@@ -6,6 +6,10 @@
         "scminput": false
     },
 
+    "github.copilot.inlineSuggest.enable": false,
+    "editor.inlineSuggest.enabled": false,
+    "chat.agent.enabled": false,
+
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter",
         "editor.formatOnSave": true
